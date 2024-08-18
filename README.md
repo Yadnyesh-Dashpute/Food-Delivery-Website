@@ -17,7 +17,7 @@ This project is a visually appealing and responsive food-themed frontend website
 - JavaScript: Dynamic content rendering and interactivity.
 
 ### Installation
-- Clone the repository: git clone https://github.com/your-username/food-frontend-website.git
+- Clone the repository: git clone [https://github.com/your-username/food-frontend-website.git](https://github.com/Yadnyesh-Dashpute/Food-Delivery-Website.git)
 - Navigate to the project directory: cd frontend
 - Install dependencies: npm install
 - Run the development server: npm start
